@@ -15,4 +15,4 @@ Monday night's video was pretty helpful on breaking things down that related to 
 I'm still trying to wrap my head around the different view controllers and when and where they appear. Hopefully, the next projects and class will drill it down more.
 
 
-![alt tag](https://github.com/idale/carousel/blob/master/carousel.gif)
+![alt tag](https://github.com/idale/Facebook/blob/master/wedding_photo.gif)
